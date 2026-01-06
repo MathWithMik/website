@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<?php
+session_start();
+?>
+
+
+<html>
+
+<head>
+	<title>Math with Mik</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+
+
+<body>
+
+<div class = "TopBar">
+
+	<div id="LogoName">Math with Mik</div>
+
+<div class = "NavBar">
+<ul>
+	<li style="width: 12%;"><a href="index.php" >Home</a></li>
+	<li style="width: 13%;"><a href="Lessons.php" >Lessons</a></li>
+	<li style="width: 17%;"><a href="Worksheets.php" >Worksheets</a></li>
+	<li style="width: 15%;"><a href="Research.php" class="active">Research</a></li>
+	<li style="float:right; width: 20%;"><a style="text-align: center;" href="About.php">About Mik</a></li>
+</ul>
+</div>
+</div>
+
+<div style="margin-top: 2vw;">
+	<img src="Under_Construction_Icon.svg" alt="Under Construction" style="width: 100vw;height: 66.6vw;">
+</div>
+
+<div class="Foot">
+	Math with Mik - Last Updated Dec 31, 2025 - Made by Mik Fresonke
+</div>
+
+</body>
+
+</html>
+
